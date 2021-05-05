@@ -7,8 +7,8 @@ Developers help make the stakeholders a functional specification, or requirement
 
 ## Architecture
 Sofware - intended to be an avenue to easily change the behavior of machines.
-    - must be "soft" - easy to change
-    - When stakeholders change requirements, the change should be simple and easy to make. 
+    * must be "soft" - easy to change
+    * When stakeholders change requirements, the change should be simple and easy to make. 
 
 Differences between scope and shape often drive the growth in software development costs. It's the reason that costs grow out of proportion to the size of requested changes.
 Each new request is harder to fit than the last in an ever-increasing complex puzzle.
@@ -21,13 +21,13 @@ Systems can become *impossible* to change because the cost of change exceeds the
 
 ## Eisenhower's Matrix
 
-                        |
-  Important / Urgent    |  Important / Not Urgent
-                        |
-----------------------------------------------------
-                        |
-  Unimportant / Urgent  |  Unimportant / Not Urgent  
-                        |
+
+-----------------------|----------------------------
+  Important / Urgent   |  Important / Not Urgent   
+-----------------------|----------------------------
+  Unimportant / Urgent |  Unimportant / Not Urgent  
+-----------------------|----------------------------
+
 
 The first value of software (behavior) is urgent but not always important.
 The second value of software (architecture) is important but not always urgent.
