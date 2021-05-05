@@ -22,11 +22,10 @@ Systems can become *impossible* to change because the cost of change exceeds the
 ## Eisenhower's Matrix
 
 
------------------------|----------------------------
+
   Important / Urgent   |  Important / Not Urgent   
 -----------------------|----------------------------
   Unimportant / Urgent |  Unimportant / Not Urgent  
------------------------|----------------------------
 
 
 The first value of software (behavior) is urgent but not always important.
